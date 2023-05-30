@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face{
+    font-family: helvetica Extra-Light;
+    src: url(fuente/HelveticaNowText-ExtraLight.ttf);
+}
+@font-face{
+    font-family: helvetica Regular;
+    src: url(fuente/HelveticaNowText-Regular.ttf);
+}
+@font-face{
+    font-family: helvetica Medium;
+    src: url(fuente/HelveticaNowText-Medium.ttf);
+}
+@font-face{
+    font-family: helvetica Bold;
+    src: url(fuente/HelveticaNowText-Bold.ttf);
+}
+@font-face{
+    font-family: helvetica Extra-bold;
+    src: url(fuente/HelveticaNowText-ExtraBold.ttf);
+}
+@font-face{
+    font-family: helvetica Thin;
+    src: url(fuente/HelveticaNowText-Thin.ttf);
+}
